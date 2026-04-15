@@ -1,130 +1,189 @@
-# <img src="https://media.giphy.com/media/mGcNjsfWAc5ziACePn/giphy.gif" width="50"> Halo, Saya Daffa Maulana Achmad
+# 🎮 <img src="https://media.giphy.com/media/mGcNjsfWAc5ziACePn/giphy.gif" width="50"> Welcome to My World
+
+```
+ ___   ___   ___   ___   ___   ___   ___   ___   ___
+|   | |   | |   | |   | |   | |   | |   | |   | |   |
+| D | | A | | F | | F | | A | | ' | | S | | ⛏ | | W |
+|___| |___| |___| |___| |___| |___| |___| |___| |___| 
+```
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=500&lines=💻+Web+Developer;🚀+Full+Stack+Enthusiast;📚+RPL+Student;🎯+Always+Learning)](https://git.io/typing-svg)
+### 💻 Web Developer | 🚀 Full Stack | 🎮 Gaming Enthusiast | 📚 RPL Student
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=frfr+no+cap;just+vibing+%26+coding;building+cringe+projects+fr;always+grinding+%F0%9F%92%AA)](https://git.io/typing-svg)
+
+<br>
+
+**Status:** 🟢 Online | Skill Level: 📊 Beginner+ | Vibe Check: ✨ Immaculate
 
 </div>
 
-<p align="center">
+---
+
+## 🎮 About Me (Character Info)
+
+```
+┌─────────────────────────────────────┐
+│ Player: Daffa Maulana Achmad       │
+│ Level: 🟧🟧🟧 (Grinding...)        │
+│ Status: 🔥 Motivated | 💯 Committed│
+│ Current Quest: Build Cool Projects  │
+└─────────────────────────────────────┘
+```
+
+> Yo, ini Daffa! Developer pemula yang lagi belajar sambil ngebuild project-project keren. Gak takut gagal, malah itu part of the journey 😤 RPL student yang suka main coding sampai lupa tidur. Passion real, skill sedang diupgrade 🚀
+
+---
+
+## 💎 Inventory (Skills)
+
+<details open>
+<summary><b>📦 Frontend Arsenal</b> (Click to toggle)</summary>
+
+```
+⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
+```
+
+![HTML5](https://img.shields.io/badge/⬛_HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a)
+![CSS3](https://img.shields.io/badge/⬛_CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a1a)
+![JavaScript](https://img.shields.io/badge/⬛_JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=1a1a1a&labelColor=1a1a1a)
+![React](https://img.shields.io/badge/⬛_React-61DAFB?style=for-the-badge&logo=react&logoColor=1a1a1a&labelColor=1a1a1a)
+![Bootstrap](https://img.shields.io/badge/⬛_Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=1a1a1a)
+![Tailwind CSS](https://img.shields.io/badge/⬛_Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1a1a1a)
+
+</details>
+
+<details open>
+<summary><b>🔨 Backend Tools</b> (Click to explore)</summary>
+
+```
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+```
+
+![PHP](https://img.shields.io/badge/⬜_PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=1a1a1a)
+![Node.js](https://img.shields.io/badge/⬜_Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1a1a)
+![Express](https://img.shields.io/badge/⬜_Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=1a1a1a)
+![Yii2](https://img.shields.io/badge/⬜_Yii2-0066CC?style=for-the-badge&logo=php&logoColor=white&labelColor=1a1a1a)
+![Ruby](https://img.shields.io/badge/⬜_Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white&labelColor=1a1a1a)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Database Stash</b></summary>
+
+```
+🟨🟨🟨🟨🟨🟨
+```
+
+![MySQL](https://img.shields.io/badge/🟨_MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a1a)
+![PostgreSQL](https://img.shields.io/badge/🟨_PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a1a)
+
+</details>
+
+---
+
+## 🛠️ Tools in My Crafting Table
+
+```
+    [Crafting Table]
+   ┌─────────────────┐
+   │ VS Code    ⚡   │─── Main Weapon
+   │ Laragon    🔧   │─── Testing Ground  
+   │ Git        📦   │─── Version Control
+   │ Figma      🎨   │─── Design Studio
+   │ PhpMyAdmin 🗄️   │─── Database Boss
+   └─────────────────┘
+```
+
+---
+
+## 🎯 Main Quest: I-Whalle Project
+
+<div align="center">
+
+### 💳 **I-Whalle** - The E-Wallet Experience
+
+```
+╔════════════════════════════════════╗
+║   💳 I-WHALLE - Digital Treasure   ║
+║                                    ║
+║  Status: 🏗️ Under Construction     ║
+║  Difficulty: 🔴🔴🔴 (Hard)         ║
+║  ETA: Coming Soon...               ║
+╚════════════════════════════════════╝
+```
+
+**What's inside:** 
+- 🚀 Full Stack Web App
+- 💼 Complex Features (fr fr)
+- 🎯 Production Ready (soon™)
+
+**Tech Stack:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Achievement Board (Goals)
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════╗
+║              🏆 QUEST LOG 🏆                  ║
+╠═══════════════════════════════════════════════╣
+║ [■■■□□□□□□□] PHP & Yii2 Mastery             ║
+║ [■■■■■□□□□□] Vue.js / React Learning         ║
+║ [■■□□□□□□□□] Portfolio Projects              ║
+║ [■■■□□□□□□□] Best Practices Study            ║
+║ [□□□□□□□□□□] Open Source Contribution        ║
+╚═══════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🎮 Social Links (Multiplayer Mode)
+
+<div align="center">
+
+### Add Me On:
+
+```
+🎮 Gaming Lobby - GitHub
+📧 DM System - Email
+```
+
 <a href="https://github.com/Daffa-MA">
-    <img src="https://img.shields.io/badge/GitHub-Daffa--MA-black?style=flat-square&logo=github" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-Daffa--MA-black?style=for-the-badge&logo=github&labelColor=1a1a1a" alt="GitHub">
 </a>
+
 <a href="mailto:daffamau09@gmail.com">
-    <img src="https://img.shields.io/badge/Email-daffamau09%40gmail.com-red?style=flat-square&logo=gmail" alt="Email">
+  <img src="https://img.shields.io/badge/Email-daffamau09@gmail.com-red?style=for-the-badge&logo=gmail&labelColor=1a1a1a" alt="Email">
 </a>
-</p>
-
-Developer pemula yang passionate tentang web development dan terus belajar untuk menjadi lebih baik. Saat ini masih dalam perjalanan pendidikan di RPL dengan fokus pada pengembangan aplikasi web modern.
-
----
-
-## 💻 Skill Utama
-
-<div align="center">
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🔧 Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Yii2](https://img.shields.io/badge/Yii2-0066CC?style=for-the-badge&logo=php&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🎛️ Other
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![RESTful API](https://img.shields.io/badge/RESTful%20API-4285F4?style=for-the-badge)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-FF6B6B?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🛠️ Tools yang Saya Gunakan
+## 🤝 LFG - Looking For Group
 
 <div align="center">
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Laragon](https://img.shields.io/badge/Laragon-0071C5?style=for-the-badge&logo=laragon&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+```
+👥 LOOKING FOR CO-OP PLAYERS 👥
 
-</div>
+Want to collaborate? Slide into my DMs fr
+Let's build something fire together 🔥
 
----
-
-## 📁 Project Unggulan
-
-<table>
-<tr>
-<td align="center" width="100%">
-
-### 💳 **I-Whalle**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-Aplikasi e-wallet yang dirancang dengan fitur-fitur kompleks dan modern
-
-**Tech Stack**: Node.js • Express.js • React • PostgreSQL
-
-*🚀 Coming soon di GitHub*
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Goals & Tujuan Belajar
-
-<div align="center">
-
-| Goal | Status |
-|------|--------|
-| 🎓 Menguasai PHP & Yii2 Framework dengan solid | 🔄 In Progress |
-| 📚 Belajar Vue.js / React untuk frontend yang lebih interaktif | ✅ Learning |
-| 🚀 Mengembangkan portfolio dengan project-project berkualitas | 🔄 In Progress |
-| 💡 Memahami best practices dalam web development | 🔄 In Progress |
-| 🌟 Berkontribusi pada open-source projects | ⏳ Coming Soon |
-
-</div>
-
----
-
-## 📞 Hubungi Saya
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Daffa--MA-black?style=for-the-badge&logo=github)](https://github.com/Daffa-MA)
-[![Email](https://img.shields.io/badge/Email-daffamau09%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:daffamau09@gmail.com)
-
-</div>
-
----
-
-## 🤝 Mari Berkolaborasi
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWoLvq1/giphy.gif" width="100" alt="Collaboration">
-
-**Saya terbuka untuk diskusi, feedback, atau kolaborasi dalam project-project menarik.**
-
-💬 Jangan ragu untuk menghubungi saya!
+No cap energy only ✨
+```
 
 </div>
 
@@ -132,6 +191,14 @@ Aplikasi e-wallet yang dirancang dengan fitur-fitur kompleks dan modern
 
 <div align="center">
 
-Made with ❤️ by Daffa Maulana Achmad | Last updated: April 2026
+```
+████████████████████████████████████
+█ Made with 💜 by Daffa             █
+█ Last Updated: April 2026           █
+█ Vibes: Immaculate ✨              █
+████████████████████████████████████
+```
 
-</div>
+⭐ **If you fw the vibe, drop a star** ⭐
+
+
