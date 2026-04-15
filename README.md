@@ -4,6 +4,12 @@
   <i>✨ spawned in coding realm • grinding XP • crafting projects tiap hari ✨</i>
 </p>
 
+<p align="center">
+  <marquee behavior="scroll" direction="right" scrollamount="3" width="80%">
+    👾 Loading... 🔨 Crafting Code... ⛏️ Building Projects... 🚀 Let's GO!
+  </marquee>
+</p>
+
 ---
 
 ### 🧱 PLAYER.LOG
@@ -40,10 +46,16 @@
   <img src="https://media.giphy.com/media/l0HlTy9x-8vAZXLgIc/giphy.gif" height="100" alt="Steve walking"/>
 </p>
 
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="2" width="100%">
+    👾 ➜ ➜ ➜ ➜ ➜  Code Dimension  ➜ ➜ ➜ ➜ ➜  🏗️
+  </marquee>
+</p>
+
 ```
-👾 —→ —→ —→ Code Dimension —→ —→ 🏗️
-Daffa_MA sedang berjalan di realm coding
-"Let's build something fire!" 🔥
+🎮 Daffa_MA sedang berjalan di realm coding...
+💬 "Let's build something FIRE!" 🔥
+⚡ Status: Actively Grinding ⚡
 ```
 
 ---
@@ -58,13 +70,14 @@ Daffa_MA sedang berjalan di realm coding
 │ 🟦 Node.js    ⚪ Express           │
 │ 🔵 React      🟨 PostgreSQL        │
 └─────────────────────────────────────┘
-           ⬇️  🔨  ⬇️
-          CRAFTING...
-           ⬇️  ⬇️  ⬇️
+           🔄 ⚙️ 🔄
+        CRAFTING IN PROGRESS...
+           🔄 ⚙️ 🔄
     💳 I-WHALLE ✨ [Level III]
 
 Status: 🏗️ Under Construction
 Progress: ████████░░░░░░░░░░░░ 40%
+Enchantment: ✨ Efficiency III
 ```
 
 </div>
@@ -99,6 +112,22 @@ Progress: ████████░░░░░░░░░░░░ 40%
 
 ---
 
+<p align="center">
+
+```
+💎 ACTIVE BUFFS 💎
+┌─────────────────────────────┐
+│ ⚡ Focus Boost (1h)         │
+│ 🔥 Motivation Max            │
+│ 💪 Grinding Mode: ENABLED   │
+│ ✨ No Cap Energy             │
+└─────────────────────────────┘
+```
+
+</p>
+
+---
+
 ### 📡 SIGNAL (Connect)
 
 <p align="center">
@@ -110,15 +139,11 @@ Progress: ████████░░░░░░░░░░░░ 40%
   </a>
 </p>
 
-<div align="center">
-
-```
-👥 LOOKING FOR CO-OP? 👥
-Slide in DMs! Let's build something 🔥
-No cap energy only ✨
-```
-
-</div>
+<p align="center">
+  <marquee behavior="scroll" direction="right" scrollamount="2" width="90%">
+    👥 LOOKING FOR CO-OP PLAYERS 👥 • Slide in DMs! • Let's build 🔥 • No cap energy ✨
+  </marquee>
+</p>
 
 ---
 
@@ -138,15 +163,11 @@ No cap energy only ✨
 
 </p>
 
-<div align="center" style="margin-top: 20px;">
-
 **Enchantment Levels Unlocked:**
 ```
 ⚔️ Sharpness III    🛡️ Protection II
 📚 Mending I         🎯 Efficiency III  
 💪 Strength II       ✨ Luck of Sea I
 ```
-
-</div>
 
 
