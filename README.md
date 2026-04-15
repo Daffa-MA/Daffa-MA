@@ -1,34 +1,7 @@
 # <h1 align="center">⛏️ Daffa's Block World</h1>
 
-<style>
-@keyframes enchant {
-  0%, 100% { text-shadow: 0 0 5px #00ff00; }
-  50% { text-shadow: 0 0 15px #00ff00, 0 0 25px #00aa00; }
-}
-
-@keyframes walk {
-  0% { margin-left: -100px; }
-  100% { margin-left: 400px; }
-}
-
-@keyframes pulse {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.5; }
-}
-
-@keyframes sparkle {
-  0%, 100% { opacity: 0.5; }
-  50% { opacity: 1; }
-}
-
-.enchant { animation: enchant 1.5s infinite; }
-.walking { animation: walk 3s infinite; }
-.pulse { animation: pulse 2s infinite; }
-.sparkle { animation: sparkle 1s infinite; }
-</style>
-
 <p align="center">
-  <i class="enchant">✨ spawned in coding realm • grinding XP • crafting projects tiap hari ✨</i>
+  <i>✨ spawned in coding realm • grinding XP • crafting projects tiap hari ✨</i>
 </p>
 
 ---
@@ -38,7 +11,7 @@
 - **main quest:** jadi full-stack dev yang solid
 - **side quest:** explore devops & cloud computing
 - **status:** 🟢 always grinding... (no cap fr fr)
-- **vibe:** <span class="sparkle">immaculate ✨</span> • motivation: MAX 💪
+- **vibe:** immaculate ✨ • motivation: MAX 💪
 
 ---
 
@@ -67,15 +40,10 @@
   <img src="https://media.giphy.com/media/l0HlTy9x-8vAZXLgIc/giphy.gif" height="100" alt="Steve walking"/>
 </p>
 
-<div align="center">
-  <p style="font-family: monospace; animation: walk 4s infinite;">
-    👾 ➜➜➜➜➜ Code Dimension ➜➜➜ 🏗️
-  </p>
-</div>
-
 ```
-Daffa_MA wandering di Code Dimension...
-💬 "Let's build something fire!" 🔥
+👾 —→ —→ —→ Code Dimension —→ —→ 🏗️
+Daffa_MA sedang berjalan di realm coding
+"Let's build something fire!" 🔥
 ```
 
 ---
@@ -87,14 +55,13 @@ Daffa_MA wandering di Code Dimension...
 ```
 🧩 RECIPE REQUIRED:
 ┌─────────────────────────────────────┐
-│ [Node.js 🟦] [Express ⚪]          │
-│ [React 🔵] [PostgreSQL 🟨]         │
+│ 🟦 Node.js    ⚪ Express           │
+│ 🔵 React      🟨 PostgreSQL        │
 └─────────────────────────────────────┘
-              ⬇️  ⬇️  ⬇️
-            🔨 CRAFTING...
-              ⬇️  ⬇️  ⬇️
-        💳 I-WHALLE [ENCHANTING]
-        > Level: III ✨✨✨
+           ⬇️  🔨  ⬇️
+          CRAFTING...
+           ⬇️  ⬇️  ⬇️
+    💳 I-WHALLE ✨ [Level III]
 
 Status: 🏗️ Under Construction
 Progress: ████████░░░░░░░░░░░░ 40%
@@ -106,8 +73,8 @@ Progress: ████████░░░░░░░░░░░░ 40%
 
 ### 📊 XP TRACKER
 
-<p align="center" class="pulse">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daffa-MA&show_icons=true&theme=tokyonight&hide=contribs,issues" style="animation: pulse 2s infinite;"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daffa-MA&show_icons=true&theme=tokyonight&hide=contribs,issues"/>
 </p>
 
 <p align="center">
