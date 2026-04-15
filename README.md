@@ -1,79 +1,78 @@
-# 🎮 Welcome to Daffa's World
-
-```
-███▓▓▓███████▓▓▓█████▓▓▓███████▓▓▓█░░
-███▓▓▓████████▓▓▓██▓▓▓█████████▓▓▓█░░
-███▓▓▓██████████▓▓▓███████████▓▓▓██░░
-███▓▓▓██████████▓▓▓███████████▓▓▓██░░
-█████████████████████████████████████░
-████ D A F F A ' S   C O D I N G   S K Y
-█████████████████████████████████████░
-```
+# 🎮 Welcome to Daffa's Minecraft World
 
 <div align="center">
 
 ```
-╔════════════════════════════════════╗
-║  🌍 MINECRAFT DEVELOPER SERVER 🌍  ║
-║                                    ║
-║  Players Online: 1                 ║
-║  Version: Alpha 0.3                ║
-║  Mode: Survival + Creative         ║
-╚════════════════════════════════════╝
+ ████████████████████████████████████████
+ █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
+ █░  DAFFA'S CODING DIMENSION  [Loading]█
+ █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
+ ████████████████████████████████████████
 ```
 
-**[Status: 🟢 Online]** | **Skill Level: ▓▓▓░░░░░░░ (30%)**
+<img src="https://media.giphy.com/media/l0HlTy9x-8vAZXLgIc/giphy.gif" width="80" alt="Minecraft Steve walking">
+
+**[WORLD STATUS: 🟢 ONLINE]** • **MODE: Survival + Creative** • **DIFFICULTY: Hard** 💪
 
 </div>
 
 ---
 
-## 📜 Server Chat - About Me
+## 👤 PLAYER PROFILE
 
 ```
-┌──────────────────────────────────────────────────┐
-│ [CHAT]                              [↑] [↓]     │
-├──────────────────────────────────────────────────┤
-│                                                  │
-│ <Daffa_MA> Yo, welcome to my server! 👋        │
-│ <Daffa_MA> Building cool projects here         │
-│ <Daffa_MA> RPL Student | Full Stack Wannabe   │
-│ <Daffa_MA> No cap, we grind fr fr 💪          │
-│ <Daffa_MA> Love code > sleep 😎               │
-│                                                  │
-└──────────────────────────────────────────────────┘
-  Type / for commands | ESC to quit
+╔═══════════════════════════════════════════════╗
+║                                               ║
+║  📊 USERNAME: Daffa_MA                       ║
+║  🏆 LEVEL: ▓▓▓▓░ (Beginner+ - 4/10)          ║
+║  ⚡ CURRENT XP: 3,450 / 5,000                 ║
+║  📍 LOCATION: Coding Realm 🏗️                ║
+║  ❤️  HEALTH: Maximum ① ① ① ① ① ① ① ① ① ①  ║
+║  🍗 HUNGER: Maximum ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉    ║
+║                                               ║
+╚═══════════════════════════════════════════════╝
 ```
+
+### 🎯 Status: Developer pemula yang passionate!
+
+> Yo! Aku Daffa, developer pemula dari RPL yang lagi serius belajar web development. Lebih suka coding daripada tidur 😴➡️💻 Gak takut fail, karena setiap error itu blessing in disguise 🙏 Passion real, skill sedang di-upgrade 📈 Let's grind! 💪
 
 ---
 
-## 📦 INVENTORY SCREEN (Skills)
+## 💎 INVENTORY SKILLS
 
 ```
-╔═══════════════════════════════════════════╗
-║          INVENTORY                 [X]   ║
-╠═══════════════════╦═════════════════════╣
-║  Crafting Grid    ║  Inventory          ║
-║  ┌─┬─┐           ║  ┌─────────────────┐ ║
-║  │ │ │           ║  │ ⬛ HTML5      x  │ ║
-║  ├─┼─┤  Pick:    ║  │ ⬛ CSS3       x  │ ║
-║  │ │ │   📸      ║  │ ⬛ JavaScript x  │ ║
-║  └─┴─┘           ║  │ ⬛ React      x  │ ║
-║                  ║  │ ⬛ Bootstrap  x  │ ║
-║  FRONTEND TOOLS  ║  │ ⬛ Tailwind   x  │ ║
-║  ▦▦▦▦▦▦▦▦▦▦      ║  │ ⬜ PHP        x  │ ║
-║  Crafted: 6/6    ║  │ ⬜ Node.js    x  │ ║
-║                  ║  │ ⬜ Express    x  │ ║
-╠═══════════════════╩═════════════════════╣
-║ BACKEND TOOLS        │ DATABASE STASH  ║
-║ ▦▦▦▦▦▦▦▦▦▦           │ ▦▦▦▦▦▦         ║
-║ Crafted: 5/5         │ MySQL x PostgreSQL
-║                      │                 ║
-║ Yii2, Ruby...        │ Level: Expert   ║
-╠═══════════════════════════════════════════╣
-║  Tools: VS Code ⚡ | Laragon 🔧          ║
-║  Git 📦 | Figma 🎨 | PhpMyAdmin 🗄️     ║
-╚═══════════════════════════════════════════╝
+╔════════════════════════════════════════════════╗
+║  BAG & CRAFTING                          [X]  ║
+╠════════════════════════════════════════════════╣
+║                                                ║
+║  🎨 FRONTEND MASTERY                          ║
+║  ├─ ⬛ HTML5 ...................... [████░]   ║
+║  ├─ ⬛ CSS3 ....................... [████░]   ║
+║  ├─ ⬛ JavaScript ................. [█████]   ║
+║  ├─ ⬛ React ...................... [███░░]   ║
+║  ├─ ⬛ Bootstrap .................. [░░░░░]   ║
+║  └─ ⬛ Tailwind CSS ............... [░░░░░]   ║
+║                                                ║
+║  ⚙️ BACKEND MASTERY                           ║
+║  ├─ ⬜ PHP ....................... [███░░]   ║
+║  ├─ ⬜ Node.js ................... [████░]   ║
+║  ├─ ⬜ Express.js ................ [███░░]   ║
+║  ├─ ⬜ Yii2 Framework ........... [██░░░]   ║
+║  └─ ⬜ Ruby ...................... [░░░░░]   ║
+║                                                ║
+║  🗄️  DATABASE ARSENAL                        ║
+║  ├─ 🟨 MySQL .................... [███░░]   ║
+║  └─ 🟨 PostgreSQL ............... [██░░░]   ║
+║                                                ║
+║  🔨 TOOLS & WEAPONS                          ║
+║  ├─ ⚡ VS Code (Main) ........... [█████]   ║
+║  ├─ 🔧 Laragon ................. [████░]   ║
+║  ├─ 📦 Git & GitHub ............ [████░]   ║
+║  ├─ 🎨 Figma ................... [███░░]   ║
+║  └─ 🗄️  PhpMyAdmin ............. [███░░]   ║
+║                                                ║
+╚════════════════════════════════════════════════╝
 ```
 
 ---
@@ -81,117 +80,193 @@
 ## ⛏️ CRAFTING RECIPES (Main Quest)
 
 ```
-╔═══════════════════════════════════════════╗
-║           📋 I-WHALLE PROJECT 📋         ║
-╠═══════════════════════════════════════════╣
-║                                           ║
-║  Recipe:                                  ║
-║  ┌─────────────────────────────────┐    ║
-║  │ ⬜ Node.js                      │    ║
-║  │ ⬜ Express    ⬜ React  ⬜ PostgreSQL│
-║  │ ⬜ PostgreSQL                   │    ║
-║  └─────────────────────────────────┘    ║
-║                           ↓              ║
-║         >>> 💳 I-WHALLE <<<             ║
-║     (E-Wallet Application) 🚀           ║
-║                                           ║
-║  Status: 🏗️ Under Construction           ║
-║  Difficulty: ██████░░░░ HARD             ║
-║  Progress: ███████░░░░ 70% Complete      ║
-║  ETA: soon™ (that's developer time)      ║
-║                                           ║
-╚═══════════════════════════════════════════╝
+╔════════════════════════════════════════════════╗
+║           💳 I-WHALLE - E-WALLET 💳           ║
+╠════════════════════════════════════════════════╣
+║                                                ║
+║  RECIPE:                                       ║
+║  ┌──────────────────────────────────────┐    ║
+║  │ ⬜ ⬜ ⬜                              │    ║
+║  │ ⬜ 🟦 ⬜    (Node.js + Express)     │    ║
+║  │ ⬜ ⬜ ⬜                              │    ║
+║  └──────────────────────────────────────┘    ║
+║                    + React + PostgreSQL       ║
+║                           ⬇️                  ║
+║                   💳 I-WHALLE APP             ║
+║                  (E-Wallet Modren!)           ║
+║                                                ║
+║  📊 Project Status:                           ║
+║  Progress: ████████░░░░░░░░░░░░ 40%         ║
+║  Status: 🏗️ UNDER CONSTRUCTION               ║
+║  Difficulty: 🔴🔴🔴 HARD MODE                ║
+║                                                ║
+║  ✨ Expected Features:                        ║
+║  ✓ Secure Wallet System                      ║
+║  ✓ Real-time Transactions                    ║
+║  ✓ Beautiful UI/UX                           ║
+║  ✓ Production Ready (soon™)                  ║
+║                                                ║
+╚════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🎯 QUEST LOG (Goals & Achievements)
+## 🎯 QUEST LOG - Achievement Goals
 
 ```
-╔═══════════════════════════════════════════╗
-║         🏆 QUEST TRACKER 🏆              ║
-╠═══════════════════════════════════════════╣
-║                                           ║
-║ [IN PROGRESS] PHP & Yii2 Mastery        ║
-║ ▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-║ Reward: 500 XP ⭐                        ║
-║                                           ║
-║ [IN PROGRESS] Vue.js / React Expert     ║
-║ ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-║ Reward: 800 XP ⭐⭐                      ║
-║                                           ║
-║ [IN PROGRESS] Portfolio Projects        ║
-║ ▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-║ Reward: 300 XP ⭐                        ║
-║                                           ║
-║ [IN PROGRESS] Best Practices Study      ║
-║ ▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-║ Reward: 600 XP ⭐⭐                      ║
-║                                           ║
-║ [LOCKED] Open Source Contribution       ║
-║ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-║ Reward: 1000 XP ⭐⭐⭐                    ║
-║                                           ║
-║ TOTAL LEVEL: ▓▓▓░░ (3/10) Beginner+     ║
-║                                           ║
-╚═══════════════════════════════════════════╝
-```
-
----
-
-## 📡 MULTIPLAYER - Connect With Me
-
-```
-╔═══════════════════════════════════════════╗
-║         SERVER STATUS & PLAYERS          ║
-╠═══════════════════════════════════════════╣
-║                                           ║
-║ 🟢 Daffa_MA - ONLINE                     ║
-║    [GitHub Admin]  [Always Vibing]       ║
-║    Location: Coding Realm 🏗️             ║
-║                                           ║
-║ Add me at:                                ║
-║ 🎮 GitHub: @Daffa-MA                    ║
-║ 📧 Mail: daffamau09@gmail.com            ║
-║                                           ║
-║ [☑] Can Accept Collaborations 🤝        ║
-║ [☑] Open to Projects & Feedback ✨       ║
-║                                           ║
-╚═══════════════════════════════════════════╝
+╔════════════════════════════════════════════════╗
+║            🏆 QUEST TRACKER 🏆               ║
+╠════════════════════════════════════════════════╣
+║                                                ║
+║  MAIN QUEST LINE:                             ║
+║                                                ║
+║  ⬜ PHP & Yii2 Framework Mastery             ║
+║  Progress: ████░░░░░░░░░░░░░░░░  20%        ║
+║  → RewardXP: 500 ⭐                          ║
+║                                                ║
+║  ⬜ Vue.js & React Expert Mode               ║
+║  Progress: ███░░░░░░░░░░░░░░░░░░  15%       ║
+║  → Reward XP: 800 ⭐⭐                       ║
+║                                                ║
+║  ⬜ Portfolio Projects Collection             ║
+║  Progress: █░░░░░░░░░░░░░░░░░░░░░  5%        ║
+║  → Reward XP: 300 ⭐                          ║
+║                                                ║
+║  ⬜ Clean Code & Best Practices              ║
+║  Progress: ██░░░░░░░░░░░░░░░░░░░░  10%      ║
+║  → Reward XP: 600 ⭐⭐                       ║
+║                                                ║
+║  🔒 Open Source Contribution                  ║
+║  Progress: ░░░░░░░░░░░░░░░░░░░░░░░  0%      ║
+║  → Reward XP: 1000 ⭐⭐⭐ (LOCKED)            ║
+║                                                ║
+║  ├─ TOTAL QUEST XP: 3,450 / 5,000            ║
+║  └─ NEXT LEVEL UP: 1,550 XP left             ║
+║                                                ║
+╚════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🔔 BroadCast Message
+## 🌍 WORLD STATISTICS
+
+<table align="center">
+<tr>
+<td>
+
+**BIOME INFO**
+```
+🏕️ Survival Mode
+🌳 Lush Valley Zone
+⛃ Difficulty: HARD
+🎮 PVP: Disabled
+```
+
+</td>
+<td>
+
+**RESOURCE STATUS**
+```
+⏰ Uptime: Always Online
+🔋 Motivation: MAX
+🧠 Focus Level: HIGH
+💪 Grind Meter: 100%
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📡 MULTIPLAYER - CONNECT WITH ME!
 
 ```
-┌──────────────────────────────────────────────┐
-│  [broadcast] SERVER ANNOUNCEMENT            │
-│                                              │
-│  > Looking For Co-op Players! 👥            │
-│  > Want to build something fire? 🔥         │
-│  > DM Daffa_MA for collabs                  │
-│  > No cap energy - serious devs only ✨     │
-│                                              │
-│  > Type /help for commands                  │
-│  > Type /discord to join server             │
-│  > Type /portfolio for projects             │
-│                                              │
-└──────────────────────────────────────────────┘
+╔════════════════════════════════════════════════╗
+║           SERVER CONNECTION STATUS            ║
+╠════════════════════════════════════════════════╣
+║                                                ║
+║  🟢 Daffa_MA IS ONLINE                        ║
+║                                                ║
+║  ├─ GitHub Admin      [@Daffa-MA]            ║
+║  ├─ Status: Always Grinding 💪               ║
+║  ├─ Vibes: Immaculate ✨                     ║
+║  └─ Mood: Building Cool Stuff 🔥             ║
+║                                                ║
+║  📤 ADD ME:                                    ║
+║  🎮 GitHub:  github.com/Daffa-MA             ║
+║  📧 Email:   daffamau09@gmail.com            ║
+║                                                ║
+║  ✅ Status Configuration:                     ║
+║  ├─ [✓] Collaboration Accepted               ║
+║  ├─ [✓] Feedback Welcomed                    ║
+║  ├─ [✓] Project Discussion Open              ║
+║  └─ [✓] Always Learning Mode                 ║
+║                                                ║
+╚════════════════════════════════════════════════╝
 ```
 
 ---
 
+## 📢 BROADCAST - LFG (Looking For Group)
+
 ```
-╔═══════════════════════════════════════════╗
-║  Generation Time: April 2026 ⏰           ║
-║  Server Uptime: Always Grinding 💪       ║
-║  Dev Status: Learning > Building > Vibing ║
-║                                           ║
-║  ⭐ Drop a Star if You fw the Vibe! ⭐   ║
-║  ✨ Made with 💜 by Daffa_MA ✨         ║
-╚═══════════════════════════════════════════╝
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  [📻 BROADCAST] SERVER ANNOUNCEMENT       ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃                                            ┃
+┃  👥 LOOKING FOR CO-OP PLAYERS! 👥         ┃
+┃                                            ┃
+┃  ✨ Want to collaborate? Slide in DMs!    ┃
+┃  🔥 Let's build something fire together!  ┃
+┃  no cap energy only ✨ (fr fr)            ┃
+┃                                            ┃
+┃  💬 DM: Daffa_MA                          ┃
+┃  📧 Email: daffamau09@gmail.com           ┃
+┃                                            ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
+---
+
+## 🎬 Animated Walking Character (Easter Egg)
+
+<div align="center">
+
+```
+Stage 1:  [#====---- Steve Walking]
+Stage 2:  [=#===---- Heading Right ]
+Stage 3:  [==##=---- Let's Go!     ]
+Stage 4:  [===#==--- Building      ]
+Stage 5:  [====##--- Grinding...   ]
+```
+
+*Reload halaman untuk lihat Steve berjalan lagi!* 🚶‍♂️
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════╗
+║                                                ║
+║  📅 Timestamp: April 2026 ⏰                  ║
+║  Server Version: Daffa Edition 1.0            ║
+║  Performance: ████████░░ STABLE               ║
+║                                                ║
+║  💜 Made with passion by Daffa_MA 💜         ║
+║  ✨ Vibes: Immaculate | Energy: No Cap ✨    ║
+║                                                ║
+║  ⭐ JANGAN LUPA KASIH BINTANG! ⭐            ║
+║  (Drop a Star if you fw the vibe!)           ║
+║                                                ║
+╚════════════════════════════════════════════════╝
+```
+
+**[Game Save Protected] ✓**
+
+</div>
 
 
