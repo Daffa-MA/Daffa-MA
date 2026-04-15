@@ -5,9 +5,12 @@
 </p>
 
 <p align="center">
-  <marquee behavior="scroll" direction="right" scrollamount="3" width="80%">
-    👾 Loading... 🔨 Crafting Code... ⛏️ Building Projects... 🚀 Let's GO!
-  </marquee>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&pause=1200&color=7CFC00&center=true&vCenter=true&width=900&lines=%E2%9B%8F%EF%B8%8F+Loading+world...;%F0%9F%94%A8+Crafting+code+setiap+hari...;%F0%9F%9A%80+Building+projects+di+Code+Dimension" alt="Animated minecraft status" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlTy9x-8vAZXLgIc/giphy.gif" height="80" alt="Steve walking"/>
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" height="80" alt="Animated mob"/>
 </p>
 
 ---
@@ -47,9 +50,7 @@
 </p>
 
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="2" width="100%">
-    👾 ➜ ➜ ➜ ➜ ➜  Code Dimension  ➜ ➜ ➜ ➜ ➜  🏗️
-  </marquee>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%91%BE+Daffa_MA+berjalan+di+Code+Dimension...;%F0%9F%8F%97%EF%B8%8F+Sedang+build+I-Whalle...;%F0%9F%94%A5+Lets+build+something+fire" alt="Animated world text" />
 </p>
 
 ```
@@ -140,9 +141,7 @@ Enchantment: ✨ Efficiency III
 </p>
 
 <p align="center">
-  <marquee behavior="scroll" direction="right" scrollamount="2" width="90%">
-    👥 LOOKING FOR CO-OP PLAYERS 👥 • Slide in DMs! • Let's build 🔥 • No cap energy ✨
-  </marquee>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1200&color=FFD700&center=true&vCenter=true&width=920&lines=%F0%9F%91%A5+LOOKING+FOR+CO-OP+PLAYERS;%F0%9F%92%AC+Slide+in+DMs+untuk+kolaborasi;%F0%9F%94%A5+Lets+build+something+great+together" alt="Animated collaboration banner" />
 </p>
 
 ---
