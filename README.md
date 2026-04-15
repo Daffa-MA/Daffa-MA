@@ -48,11 +48,6 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="60">
 </div>
 
-**Static Tech Stack:**
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,php,nodejs,express,yii,ruby,mysql,postgres,git,github,vscode,figma" height="40" />
-</p>
-
 ---
 
 ### 🌍 WORLD ENTITY
